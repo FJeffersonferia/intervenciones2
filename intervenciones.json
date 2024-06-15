@@ -1,0 +1,32 @@
+[
+    {
+        "fecha": "2023-06-10",
+        "estudiante": "Juan Perez",
+        "intervencion": "Sesión de orientación",
+        "detalle": "Primera sesión de orientación para abordar problemas de conducta."
+    },
+    {
+        "fecha": "2023-06-12",
+        "estudiante": "Ana López",
+        "intervencion": "Terapia cognitivo-conductual",
+        "detalle": "Terapia para mejorar la autoestima y habilidades sociales."
+    },
+    {
+        "fecha": "2023-06-15",
+        "estudiante": "Carlos García",
+        "intervencion": "Evaluación psicológica",
+        "detalle": "Evaluación para identificar posibles trastornos de aprendizaje."
+    },
+    {
+        "fecha": "2023-06-20",
+        "estudiante": "Lucía Fernández",
+        "intervencion": "Seguimiento de intervención previa",
+        "detalle": "Revisión del progreso desde la última intervención y ajuste del plan de acción."
+    },
+    {
+        "fecha": "2023-06-25",
+        "estudiante": "Mario Sánchez",
+        "intervencion": "Sesión de terapia familiar",
+        "detalle": "Sesión con la familia para mejorar la dinámica y comunicación en el hogar."
+    }
+]
